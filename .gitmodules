@@ -1,0 +1,6 @@
+[submodule "Advisor"]
+	path = Advisor
+	url = https://github.com/niroshasetty19/Advisor.git
+[submodule "advisor-app"]
+	path = advisor-app
+	url = https://github.com/niroshasetty19/advisor-app.git
