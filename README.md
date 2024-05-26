@@ -1,7 +1,8 @@
 # apexa
 This project consists of the application which can do the CRUD operations which is build in Angular(Typescript) and .NET backend using C#.
 
-Clone:- 
+Clone the Repo using this URL as this is Public URL:-
+https://github.com/niroshasetty19/apexa.git
 Running of Front end application:-
 1. npm install to install node modules and dependencies.
 2.npm run start to start the application
